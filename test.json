@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.turkishairlines.tkstore.dev",
+    "sha256_cert_fingerprints":
+    ["8E:6C:6C:4A:64:2B:04:D3:AA:F2:A6:7F:28:75:96:50:C7:B2:76:87:C4:6F:06:3C:A0:97:87:CE:39:C9:61:69"]
+  }
+}]
