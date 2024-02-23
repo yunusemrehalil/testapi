@@ -1,0 +1,23 @@
+{
+      {
+        "appID": "35MYG4AN5S.com.turkishairlines.store",
+        "paths": [
+          "/tkstore",
+          "/tkstore/*"
+        ]
+      },      
+      {
+        "appID": "35MYG4AN5S.com.turkishairlines.store.dev",
+        "paths": [
+          "/tkstore",
+          "/tkstore/*"
+        ]
+      },
+      {
+        "appID": "35MYG4AN5S.com.turkishairlines.store.uat",
+        "paths": [
+          "/tkstore",
+          "/tkstore/*"
+        ]
+      }
+}
